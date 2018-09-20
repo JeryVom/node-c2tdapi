@@ -1,3 +1,6 @@
+// start MongoDB-Server in CMD
+// C:\Program Files\MongoDB\Server\4.0\bin>mongod.exe --dbPath C:\Users\jerom\mongo-data
+
 // const MongoClient = require('mongodb').MongoClient;
 const {MongoClient, ObjectID} = require('mongodb');
 
